@@ -1,0 +1,14 @@
+{
+  "name": "01-tablas-multiplicar",
+  "version": "1.0.0",
+  "description": "Este programa crea la tabla de multiplicar de una base dada",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Javier Estevez",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^17.1.1"
+  }
+}
